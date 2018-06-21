@@ -1,0 +1,16 @@
+C:\Projects\Services-DotNetCore2-Docker\MonitoramentoAplicacoes\MonitoramentoAplicacoes\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Projects\Services-DotNetCore2-Docker\MonitoramentoAplicacoes\MonitoramentoAplicacoes\bin\Debug\netcoreapp2.0\MonitoramentoAplicacoes.deps.json
+C:\Projects\Services-DotNetCore2-Docker\MonitoramentoAplicacoes\MonitoramentoAplicacoes\bin\Debug\netcoreapp2.0\MonitoramentoAplicacoes.runtimeconfig.json
+C:\Projects\Services-DotNetCore2-Docker\MonitoramentoAplicacoes\MonitoramentoAplicacoes\bin\Debug\netcoreapp2.0\MonitoramentoAplicacoes.runtimeconfig.dev.json
+C:\Projects\Services-DotNetCore2-Docker\MonitoramentoAplicacoes\MonitoramentoAplicacoes\bin\Debug\netcoreapp2.0\MonitoramentoAplicacoes.dll
+C:\Projects\Services-DotNetCore2-Docker\MonitoramentoAplicacoes\MonitoramentoAplicacoes\bin\Debug\netcoreapp2.0\MonitoramentoAplicacoes.pdb
+C:\Projects\Services-DotNetCore2-Docker\MonitoramentoAplicacoes\MonitoramentoAplicacoes\bin\Debug\netcoreapp2.0\Agora.Brokerage.Cadastro.CBLC.Core.dll
+C:\Projects\Services-DotNetCore2-Docker\MonitoramentoAplicacoes\MonitoramentoAplicacoes\bin\Debug\netcoreapp2.0\Agora.Brokerage.Cadastro.CBLC.Mode.dll
+C:\Projects\Services-DotNetCore2-Docker\MonitoramentoAplicacoes\MonitoramentoAplicacoes\bin\Debug\netcoreapp2.0\Agora.Brokerage.Cadastro.CBLC.Core.pdb
+C:\Projects\Services-DotNetCore2-Docker\MonitoramentoAplicacoes\MonitoramentoAplicacoes\bin\Debug\netcoreapp2.0\Agora.Brokerage.Cadastro.CBLC.Mode.pdb
+C:\Projects\Services-DotNetCore2-Docker\MonitoramentoAplicacoes\MonitoramentoAplicacoes\obj\Debug\netcoreapp2.0\MonitoramentoAplicacoes.csprojResolveAssemblyReference.cache
+C:\Projects\Services-DotNetCore2-Docker\MonitoramentoAplicacoes\MonitoramentoAplicacoes\obj\Debug\netcoreapp2.0\MonitoramentoAplicacoes.csproj.CoreCompileInputs.cache
+C:\Projects\Services-DotNetCore2-Docker\MonitoramentoAplicacoes\MonitoramentoAplicacoes\obj\Debug\netcoreapp2.0\MonitoramentoAplicacoes.AssemblyInfoInputs.cache
+C:\Projects\Services-DotNetCore2-Docker\MonitoramentoAplicacoes\MonitoramentoAplicacoes\obj\Debug\netcoreapp2.0\MonitoramentoAplicacoes.AssemblyInfo.cs
+C:\Projects\Services-DotNetCore2-Docker\MonitoramentoAplicacoes\MonitoramentoAplicacoes\obj\Debug\netcoreapp2.0\MonitoramentoAplicacoes.dll
+C:\Projects\Services-DotNetCore2-Docker\MonitoramentoAplicacoes\MonitoramentoAplicacoes\obj\Debug\netcoreapp2.0\MonitoramentoAplicacoes.pdb

@@ -1,0 +1,11 @@
+C:\Projects\Services-DotNetCore2-Docker\MonitoramentoAplicacoes\Agora.Brokerage.Cadastro.CBLC.Core\bin\Debug\netcoreapp2.0\Agora.Brokerage.Cadastro.CBLC.Mode.dll
+C:\Projects\Services-DotNetCore2-Docker\MonitoramentoAplicacoes\Agora.Brokerage.Cadastro.CBLC.Core\obj\Debug\netcoreapp2.0\Agora.Brokerage.Cadastro.CBLC.Core.csprojResolveAssemblyReference.cache
+C:\Projects\Services-DotNetCore2-Docker\MonitoramentoAplicacoes\Agora.Brokerage.Cadastro.CBLC.Core\obj\Debug\netcoreapp2.0\Agora.Brokerage.Cadastro.CBLC.Core.csproj.CoreCompileInputs.cache
+C:\Projects\Services-DotNetCore2-Docker\MonitoramentoAplicacoes\Agora.Brokerage.Cadastro.CBLC.Core\obj\Debug\netcoreapp2.0\Agora.Brokerage.Cadastro.CBLC.Core.AssemblyInfoInputs.cache
+C:\Projects\Services-DotNetCore2-Docker\MonitoramentoAplicacoes\Agora.Brokerage.Cadastro.CBLC.Core\obj\Debug\netcoreapp2.0\Agora.Brokerage.Cadastro.CBLC.Core.AssemblyInfo.cs
+C:\Projects\Services-DotNetCore2-Docker\MonitoramentoAplicacoes\Agora.Brokerage.Cadastro.CBLC.Core\bin\Debug\netcoreapp2.0\Agora.Brokerage.Cadastro.CBLC.Core.deps.json
+C:\Projects\Services-DotNetCore2-Docker\MonitoramentoAplicacoes\Agora.Brokerage.Cadastro.CBLC.Core\bin\Debug\netcoreapp2.0\Agora.Brokerage.Cadastro.CBLC.Core.dll
+C:\Projects\Services-DotNetCore2-Docker\MonitoramentoAplicacoes\Agora.Brokerage.Cadastro.CBLC.Core\bin\Debug\netcoreapp2.0\Agora.Brokerage.Cadastro.CBLC.Core.pdb
+C:\Projects\Services-DotNetCore2-Docker\MonitoramentoAplicacoes\Agora.Brokerage.Cadastro.CBLC.Core\bin\Debug\netcoreapp2.0\Agora.Brokerage.Cadastro.CBLC.Mode.pdb
+C:\Projects\Services-DotNetCore2-Docker\MonitoramentoAplicacoes\Agora.Brokerage.Cadastro.CBLC.Core\obj\Debug\netcoreapp2.0\Agora.Brokerage.Cadastro.CBLC.Core.dll
+C:\Projects\Services-DotNetCore2-Docker\MonitoramentoAplicacoes\Agora.Brokerage.Cadastro.CBLC.Core\obj\Debug\netcoreapp2.0\Agora.Brokerage.Cadastro.CBLC.Core.pdb
